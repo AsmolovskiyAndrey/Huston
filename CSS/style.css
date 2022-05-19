@@ -10,9 +10,11 @@ h1{
 }
 h2{
     font-size: 28px;
+    margin-top: 15px;
 }
 h3{
     font-size: 24px;
+    margin-top: 15px;
 }
 figcaption{
     text-decoration: underline; /* подчёркивание текста под кртанкой */
@@ -23,7 +25,7 @@ th, td {
  ul{
     font-weight: bold;
  }
- img{
+ figure{
     margin: 4px 10px 2px 0px;
     float: right; /* Выравнивание по правому краю */
     border: 1px solid black; /* Параметры рамки */
