@@ -1,0 +1,42 @@
+body{
+    max-width: 70%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 28px;
+}
+h3{
+    font-size: 24px;
+}
+figcaption{
+    text-decoration: underline; /* подчёркивание текста под кртанкой */
+}
+th, td {
+    border: 1px solid black;
+ }
+ ul{
+    font-weight: bold;
+ }
+ img{
+    margin: 4px 10px 2px 0px;
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid black; /* Параметры рамки */
+    padding: 10px; /* Поля внутри блока */
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+ }
+ .table_geographic_characteristich{
+     background-color: #c6f4e9;
+ }
+ .table_economy{
+    background-color: #cbd4f3;
+}
+.table_population{
+    background-color: rgb(218, 160, 160);
+}
